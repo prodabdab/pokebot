@@ -13,7 +13,7 @@ var myconfig = {
     /**
      * Discord bot token
      */
-    "token": '~~~token_here~~~',
+    "token": 'ODMxODk4NzUzNzg2NDQ1ODc0.YHb8Fg.6dJLQUp6_630R6fD6FbQ7NxC110',
 
     /**
      * true = Pokebot will attach local images from this repository on your computer when possible for messages
