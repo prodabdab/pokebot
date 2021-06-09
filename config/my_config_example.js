@@ -5,8 +5,8 @@ var myconfig = {
     "database": {
         host: "localhost",
         user: "root",
-        password: "~~~password_for_root~~~",
-        database: '~~~database_name~~~',
+        password: "Yatin1NOV",
+        database: 'POKEMNS',
         charset: 'utf8mb4'
     },
 
@@ -19,6 +19,6 @@ var myconfig = {
      * true = Pokebot will attach local images from this repository on your computer when possible for messages
      * false = Pokebot will always use image URLs from the online repository for messages
      */
-    "useLocalImages": true
+    "useLocalImages": false
 };
 module.exports = myconfig;
